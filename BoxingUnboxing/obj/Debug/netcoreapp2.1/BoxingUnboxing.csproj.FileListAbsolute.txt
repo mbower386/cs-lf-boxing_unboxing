@@ -1,0 +1,11 @@
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.deps.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.runtimeconfig.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.runtimeconfig.dev.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.pdb
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.csprojAssemblyReference.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.csproj.CoreCompileInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.AssemblyInfoInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.AssemblyInfo.cs
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-boxing_unboxing/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.pdb
